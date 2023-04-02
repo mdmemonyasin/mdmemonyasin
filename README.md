@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdmemonyasin
 - 👀 I’m interested in Backend || Startups || Freelancing.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning in Cloud and Cloud Native space.
 - 💞️ I’m looking to collaborate on any innovative idea or development.
 - 📫 How to reach me memonyasin3@gmail.com
 
